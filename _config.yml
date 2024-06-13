@@ -3,4 +3,4 @@ lang: en
 supported_langs: [en,id]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nervidn.net" # the base hostname & protocol for your site, e.g. http://example.com
-site_source: "https://randishvold.github.io/nervweb-v2"
+site_source: "https://randishvold.github.io/nervweb-v2-fork"
